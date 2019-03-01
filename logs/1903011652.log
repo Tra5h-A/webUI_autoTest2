@@ -1,0 +1,47 @@
+2019-03-01 16:52:49,896 - BrowserEngine - INFO - You had select Chrome browser.
+2019-03-01 16:52:49,896 - BrowserEngine - INFO - The test server url is:http://127.0.0.1/forum.php
+2019-03-01 16:52:52,842 - BrowserEngine - INFO - Starting Chrome browser.
+2019-03-01 16:52:53,281 - BrowserEngine - INFO - Open url:http://127.0.0.1/forum.php
+2019-03-01 16:52:54,405 - BrowserEngine - INFO - Maximize the current window.
+2019-03-01 16:52:54,407 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2019-03-01 16:52:54,469 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('name', 'username')
+2019-03-01 16:52:54,678 - BasePage - INFO - 输入内容:admin
+2019-03-01 16:52:54,715 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('name', 'password')
+2019-03-01 16:52:54,862 - BasePage - INFO - 输入内容:bin19961013
+2019-03-01 16:52:54,898 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('css selector', '.fastlg_l button')
+2019-03-01 16:52:54,985 - BasePage - INFO - 元素 登录 被点击.
+2019-03-01 16:52:58,019 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('css selector', '#um > p:nth-child(2) > strong > a')
+2019-03-01 16:52:58,105 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('link text', '默认版块')
+2019-03-01 16:52:59,043 - BasePage - INFO - 已截图并保存到文件夹:/screenshots
+2019-03-01 16:52:59,043 - BasePage - ERROR - 点击元素失败： Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-01 16:52:59,079 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('id', 'newspecial')
+2019-03-01 16:52:59,983 - BasePage - INFO - 已截图并保存到文件夹:/screenshots
+2019-03-01 16:52:59,984 - BasePage - ERROR - 点击元素失败： Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-01 16:53:00,029 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('id', 'subject')
+2019-03-01 16:53:00,225 - BasePage - INFO - 输入内容:haotest
+2019-03-01 16:53:00,321 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('css selector', 'html body')
+2019-03-01 16:53:00,463 - BasePage - INFO - 输入内容:这是一个测试帖
+2019-03-01 16:53:00,512 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('id', 'postsubmit')
+2019-03-01 16:53:00,649 - BasePage - INFO - 元素 发表帖子 被点击.
+2019-03-01 16:53:05,731 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('id', 'post_reply')
+2019-03-01 16:53:05,817 - BasePage - INFO - 元素  被点击.
+2019-03-01 16:53:07,872 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('css selector', 'div>textarea')
+2019-03-01 16:53:07,958 - BasePage - INFO - 输入内容:回复测试帖
+2019-03-01 16:53:07,993 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('css selector', 'div>button')
+2019-03-01 16:53:08,664 - BasePage - INFO - 已截图并保存到文件夹:/screenshots
+2019-03-01 16:53:08,664 - BasePage - ERROR - 点击元素失败： Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-01 16:53:08,710 - BasePage - INFO - <pageobjects.Discuz_homepage.HomePage object at 0x0000022F7695CEB8>找到页面元素-->('link text', '退出')
+2019-03-01 16:53:09,345 - BasePage - INFO - 已截图并保存到文件夹:/screenshots
+2019-03-01 16:53:09,345 - BasePage - ERROR - 点击元素失败： Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
